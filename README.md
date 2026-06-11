@@ -20,6 +20,10 @@ Fundador de **BData**, consultora especializada en **herramientas de gestión pa
 - **Rendiciones** — Sistema de rendición de gastos para equipos en terreno.
 - **Fertilizantes** — Optimizador de aplicación de fertilizantes.
 
+### 📸 Galería de aplicaciones
+
+Mira capturas de mis aplicaciones en mi **[portafolio visual »](https://github.com/cgraniffo/portafolio)**
+
 ### Dónde encontrarme
 
 - BData — consultoría en gestión agroindustrial
